@@ -1,4 +1,4 @@
-package transferidor;
+
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -13,8 +13,7 @@ import java.io.OutputStreamWriter;
 public class Transferidor {
 
 	public static void main(String[] args) throws IOException {
-		System.out.println(args[0]);
-		
+		//Leitura do arquivo original
 		InputStream is = new FileInputStream(args[0]);
 		InputStreamReader isr = new InputStreamReader(is);
 		BufferedReader br = new BufferedReader(isr);
@@ -24,7 +23,7 @@ public class Transferidor {
 		OutputStreamWriter osw = new OutputStreamWriter(os);
 		BufferedWriter bw = new BufferedWriter(osw);
 		
-		
+		//copia para o arquivo escolhido
 		String s = br.readLine();
 		while(s != null) {
 			
@@ -38,3 +37,4 @@ public class Transferidor {
 	}
 
 }
+
