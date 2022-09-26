@@ -1,0 +1,31 @@
+<TabelaPeriodica>
+  <tabelaPeriodica>
+    <tabelaPeriodica>
+      <nome>Hidrogênio</nome>
+      <simbolo>H</simbolo>
+      <numeroAtomico>1</numeroAtomico>
+      <massaAtomica>1008.0</massaAtomica>
+      <periodo>1</periodo>
+      <grupo>1</grupo>
+      <familia>Não-Metais</familia>
+    </tabelaPeriodica>
+    <tabelaPeriodica>
+      <nome>Helio</nome>
+      <simbolo>He</simbolo>
+      <numeroAtomico>2</numeroAtomico>
+      <massaAtomica>4003.0</massaAtomica>
+      <periodo>1</periodo>
+      <grupo>18</grupo>
+      <familia>Gases Nobres</familia>
+    </tabelaPeriodica>
+    <tabelaPeriodica>
+      <nome>Litio</nome>
+      <simbolo>Li</simbolo>
+      <numeroAtomico>3</numeroAtomico>
+      <massaAtomica>6941.0</massaAtomica>
+      <periodo>2</periodo>
+      <grupo>1</grupo>
+      <familia> Metais Alcalinos</familia>
+    </tabelaPeriodica>
+  </tabelaPeriodica>
+</TabelaPeriodica>

@@ -1,0 +1,27 @@
+{
+  "tabelaPeriodica" : [ {
+    "nome" : "Hidrogênio",
+    "simbolo" : "H",
+    "numeroAtomico" : 1,
+    "massaAtomica" : 1008.0,
+    "periodo" : 1,
+    "grupo" : 1,
+    "familia" : "Não-Metais"
+  }, {
+    "nome" : "Helio",
+    "simbolo" : "He",
+    "numeroAtomico" : 2,
+    "massaAtomica" : 4003.0,
+    "periodo" : 1,
+    "grupo" : 18,
+    "familia" : "Gases Nobres"
+  }, {
+    "nome" : "Litio",
+    "simbolo" : "Li",
+    "numeroAtomico" : 3,
+    "massaAtomica" : 6941.0,
+    "periodo" : 2,
+    "grupo" : 1,
+    "familia" : " Metais Alcalinos"
+  } ]
+}
